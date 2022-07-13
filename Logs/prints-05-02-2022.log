@@ -1,0 +1,32 @@
+13:19:37.826 [TestNG-tests-2] DEBUG Login - Opening URl
+13:19:38.761 [TestNG-tests-2] INFO  Login - URL opened successfully.
+13:19:38.762 [TestNG-tests-2] DEBUG Login - Clicking on login button.
+13:19:38.969 [TestNG-tests-2] INFO  Login - Successsfully navigated to login page.
+13:19:38.970 [TestNG-tests-2] INFO  Login - LoginPage object created.
+13:19:38.970 [TestNG-tests-2] DEBUG Login - Inputting email.
+13:19:39.035 [TestNG-tests-2] INFO  Login - Email has been inputted.
+13:19:39.035 [TestNG-tests-2] DEBUG Login - Inputting password.
+13:19:39.104 [TestNG-tests-2] DEBUG Login - Password has been inputted.
+13:19:39.105 [TestNG-tests-2] DEBUG Login - Clicking on the submit button.
+13:19:39.247 [TestNG-tests-2] INFO  Login - Submitted successfully.
+13:19:39.249 [TestNG-tests-2] DEBUG Login - Driver quit started.
+13:19:39.941 [TestNG-tests-2] INFO  Login - Driver has been quit.
+21:11:08.485 [main] INFO  Login - Initialized Driver.
+21:11:08.530 [main] DEBUG Login - Opening URl
+21:11:12.222 [main] INFO  Login - URL opened successfully.
+21:11:12.236 [main] INFO  Login - HomePage object created.
+21:11:12.236 [main] DEBUG Login - Verifying Header Title within page.
+21:11:12.590 [main] DEBUG Login - Driver quit started.
+21:11:13.329 [main] INFO  Login - Driver has been quit.
+21:11:14.747 [main] INFO  Login - Initialized Driver.
+21:11:14.763 [main] DEBUG Login - Opening URl
+21:11:17.600 [main] INFO  Login - URL opened successfully.
+21:11:17.601 [main] DEBUG Login - Clicking on login button.
+21:11:18.129 [main] INFO  Login - Successsfully navigated to login page.
+21:11:18.130 [main] INFO  Login - LoginPage object created.
+21:11:18.130 [main] DEBUG Login - Inputting email.
+21:11:18.206 [main] INFO  Login - Email has been inputted.
+21:11:18.206 [main] DEBUG Login - Inputting password.
+21:11:18.257 [main] DEBUG Login - Password has been inputted.
+21:11:18.258 [main] DEBUG Login - Clicking on the submit button.
+21:11:18.377 [main] INFO  Login - Submitted successfully.

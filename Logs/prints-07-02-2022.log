@@ -1,0 +1,34 @@
+22:45:55.809 [main] DEBUG Login - Inputting email.
+22:45:55.876 [main] INFO  Login - Email has been inputted.
+22:45:55.876 [main] DEBUG Login - Inputting password.
+22:45:55.920 [main] DEBUG Login - Password has been inputted.
+22:45:55.920 [main] DEBUG Login - Clicking on the submit button.
+22:45:56.036 [main] INFO  Login - Submitted successfully.
+22:45:56.039 [main] DEBUG Login - Driver quit started.
+22:45:56.774 [main] INFO  Login - Driver has been quit.
+23:00:00.825 [main] INFO  Login - Initialized Driver.
+23:00:00.910 [main] DEBUG Login - Opening URl
+23:00:03.769 [main] INFO  Login - URL opened successfully.
+23:00:03.785 [main] INFO  Login - HomePage object created.
+23:00:03.785 [main] DEBUG Login - Verifying Header Title within page.
+23:00:04.206 [main] DEBUG Login - Driver quit started.
+23:00:04.864 [main] INFO  Login - Driver has been quit.
+23:00:06.585 [main] INFO  Login - Initialized Driver.
+23:00:06.597 [main] DEBUG Login - Opening URl
+23:00:09.441 [main] INFO  Login - URL opened successfully.
+23:00:09.442 [main] DEBUG Login - Clicking on login button.
+23:00:09.970 [main] INFO  Login - Successsfully navigated to login page.
+23:00:09.973 [main] INFO  Login - LoginPage object created.
+23:00:09.974 [main] DEBUG Login - Inputting email.
+23:00:10.029 [main] INFO  Login - Email has been inputted.
+23:00:10.029 [main] DEBUG Login - Inputting password.
+23:00:10.069 [main] DEBUG Login - Password has been inputted.
+23:00:10.070 [main] DEBUG Login - Clicking on the submit button.
+23:00:10.196 [main] INFO  Login - Submitted successfully.
+23:00:10.197 [main] DEBUG Login - Opening URl
+23:00:11.228 [main] INFO  Login - URL opened successfully.
+23:00:11.228 [main] DEBUG Login - Clicking on login button.
+23:00:11.483 [main] INFO  Login - Successsfully navigated to login page.
+23:00:11.483 [main] INFO  Login - LoginPage object created.
+23:00:11.484 [main] DEBUG Login - Inputting email.
+23:00:11.537 [main] INFO  Login - Email has been inputted.

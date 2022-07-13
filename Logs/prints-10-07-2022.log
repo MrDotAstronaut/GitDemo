@@ -1,0 +1,30 @@
+19:29:48.945 [TestNG-tests-2] INFO  Login - Email has been inputted.
+19:29:48.951 [TestNG-tests-2] DEBUG Login - Inputting password.
+19:29:49.042 [TestNG-tests-2] DEBUG Login - Password has been inputted.
+19:29:49.042 [TestNG-tests-2] DEBUG Login - Clicking on the submit button.
+19:29:49.290 [TestNG-tests-2] INFO  Login - Submitted successfully.
+19:29:49.539 [TestNG-tests-2] DEBUG Login - Inputting email.
+19:29:49.643 [TestNG-tests-2] INFO  Login - Email has been inputted.
+19:29:49.643 [TestNG-tests-2] DEBUG Login - Inputting password.
+19:29:49.731 [TestNG-tests-2] INFO  Login - Password has been inputted.
+19:29:49.789 [TestNG-tests-2] DEBUG Login - Driver quit started.
+19:29:50.527 [TestNG-tests-2] INFO  Login - Driver has been quit.
+19:30:27.488 [TestNG-tests-1] INFO  Login - Initialized Driver.
+19:30:27.573 [TestNG-tests-1] DEBUG Login - Opening URl
+19:30:27.671 [TestNG-tests-2] INFO  Login - Initialized Driver.
+19:30:27.679 [TestNG-tests-2] DEBUG Login - Opening URl
+19:30:43.484 [TestNG-tests-2] INFO  Login - URL opened successfully.
+19:30:43.532 [TestNG-tests-2] DEBUG Login - Clicking on login button.
+19:30:45.896 [TestNG-tests-2] DEBUG Login - Opening URl
+19:30:46.473 [TestNG-tests-1] INFO  Login - URL opened successfully.
+19:30:46.473 [TestNG-tests-1] INFO  Login - HomePage object created.
+19:30:51.589 [TestNG-tests-1] DEBUG Login - Verifying Header Title within page.
+19:30:51.621 [TestNG-tests-1] INFO  Login - Header Title verified.
+19:30:51.621 [TestNG-tests-1] DEBUG Login - Checking if navbar is displayed.
+19:30:51.677 [TestNG-tests-1] INFO  Login - Navbar is available.
+19:30:51.693 [TestNG-tests-1] DEBUG Login - Driver quit started.
+19:30:52.514 [TestNG-tests-1] INFO  Login - Driver has been quit.
+19:31:07.552 [TestNG-tests-2] INFO  Login - URL opened successfully.
+19:31:07.552 [TestNG-tests-2] DEBUG Login - Clicking on login button.
+19:31:07.984 [TestNG-tests-2] INFO  Login - Successfully navigated to login page.
+19:31:07.984 [TestNG-tests-2] DEBUG Login - Inputting email.
