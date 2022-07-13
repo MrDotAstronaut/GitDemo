@@ -24,7 +24,8 @@ public class Home extends Base {
         log.debug("Checking if navbar is displayed.");
         Assert.assertTrue(hp.navBar().isDisplayed());
         log.info("Navbar is available.");
-        //TestingGIT
+        //TestingGIT - John Thomas
+        //TestingGIT - Francis Xavier
     }
     @Test
     public void VerifyBanner() throws InterruptedException {
