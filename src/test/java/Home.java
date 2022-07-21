@@ -27,7 +27,6 @@ public class Home extends Base {
         //TestingGIT - John Thomas
         //TestingGIT - Francis Xavier
         //Under Maintainance
-        //Sucky on my dicky like a little bitchy
     }
     @Test
     public void VerifyBanner() throws InterruptedException {
